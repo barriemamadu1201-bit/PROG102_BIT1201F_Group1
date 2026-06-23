@@ -1,4 +1,3 @@
-# PROG102_BIT1201F_Group1
 # 🏥 Smart Health Access System
 **Healthcare Anytime, Anywhere**
 
